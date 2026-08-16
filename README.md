@@ -177,27 +177,21 @@ motto: "Ship fast. Ship clean. Ship often."
 
 <div align="center">
 
-<a href="https://github.com/4533usman">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=4533usman&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=4533usman&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</a>
-
-<br/>
-
-<!-- GitHub Streak Stats -->
+<!-- GitHub Streak Stats (demolab — always works, no PAT needed) -->
 <a href="https://github.com/4533usman">
   <img src="https://streak-stats.demolab.com/?user=4533usman&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
 </a>
 
-</div>
+<br/><br/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Language Badges (shields.io — always works) -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=4533usman&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&rank=-?" alt="Trophies"/>
 </div>
 
 <!-- Animated Divider -->
@@ -206,32 +200,68 @@ motto: "Ship fast. Ship clean. Ship often."
 ## 🚀 Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/4533usman/rescure-app-React-Native">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=4533usman&repo=rescure-app-React-Native&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-&nbsp;
-<a href="https://github.com/4533usman/BlogApp_MERN-Stack">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=4533usman&repo=BlogApp_MERN-Stack&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-<br/>
-<a href="https://github.com/4533usman/ConfigPilot-React-Native">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=4533usman&repo=ConfigPilot-React-Native&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-&nbsp;
-<a href="https://github.com/4533usman/E-Commerece-APIS">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=4533usman&repo=E-Commerece-APIS&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4533usman&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=161b22&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🆘 Rescue App</h3>
+<p align="center">
+  <a href="https://github.com/4533usman/rescure-app-React-Native">
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  </a>
+  <br/><br/>
+  <i>Emergency rescue application built with React Native & Expo for real-time location sharing and SOS alerts.</i>
+  <br/><br/>
+  <a href="https://github.com/4533usman/rescure-app-React-Native">
+    <img src="https://img.shields.io/badge/View_Code-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">📝 Blog App</h3>
+<p align="center">
+  <a href="https://github.com/4533usman/BlogApp_MERN-Stack">
+    <img src="https://img.shields.io/badge/MERN_Stack-00D27F?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN"/>
+  </a>
+  <br/><br/>
+  <i>Full-featured blogging platform with authentication, CRUD operations, and responsive UI using MERN stack.</i>
+  <br/><br/>
+  <a href="https://github.com/4533usman/BlogApp_MERN-Stack">
+    <img src="https://img.shields.io/badge/View_Code-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">⚙️ ConfigPilot</h3>
+<p align="center">
+  <a href="https://github.com/4533usman/ConfigPilot-React-Native">
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  </a>
+  <br/><br/>
+  <i>Configuration management mobile app with dynamic form generation and remote config capabilities.</i>
+  <br/><br/>
+  <a href="https://github.com/4533usman/ConfigPilot-React-Native">
+    <img src="https://img.shields.io/badge/View_Code-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">🛒 E-Commerce APIs</h3>
+<p align="center">
+  <a href="https://github.com/4533usman/E-Commerece-APIS">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  </a>
+  <br/><br/>
+  <i>RESTful API backend for e-commerce with authentication, product management, orders, and payment integration.</i>
+  <br/><br/>
+  <a href="https://github.com/4533usman/E-Commerece-APIS">
+    <img src="https://img.shields.io/badge/View_Code-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+</td>
+</tr>
+</table>
 </div>
 
 <!-- Animated Divider -->
