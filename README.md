@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Muhammad%20Usman%20Khalil&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Associate%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descColor=8b949e&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Muhammad%20Usman%20Khalil&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descColor=8b949e&descAlignY=55" />
 
 <!-- Animated Typing Effect -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%9A%80+Building+Production-Ready+Apps;%E2%9A%A1+MERN+%7C+React+Native+%7C+Python+%7C+Java;%F0%9F%94%A5+Turning+Ideas+Into+Scalable+Solutions" alt="Typing SVG" /></a>
@@ -39,7 +39,7 @@
 
 ```yaml
 name: Muhammad Usman Khalil
-role: Associate Software Engineer
+role: Software Engineer
 location: Pakistan 🇵🇰
 focus: Full Stack Development (Web + Mobile)
 currently_building: Production-Ready Mobile & Web Applications
@@ -178,15 +178,15 @@ motto: "Ship fast. Ship clean. Ship often."
 <div align="center">
 
 <a href="https://github.com/4533usman">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4533usman&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4533usman&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=4533usman&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=4533usman&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </a>
 
 <br/>
 
 <!-- GitHub Streak Stats -->
 <a href="https://github.com/4533usman">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4533usman&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=4533usman&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
 </a>
 
 </div>
@@ -197,7 +197,7 @@ motto: "Ship fast. Ship clean. Ship often."
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=4533usman&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=4533usman&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&rank=-?" alt="Trophies"/>
 </div>
 
 <!-- Animated Divider -->
@@ -208,19 +208,19 @@ motto: "Ship fast. Ship clean. Ship often."
 <div align="center">
 
 <a href="https://github.com/4533usman/rescure-app-React-Native">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4533usman&repo=rescure-app-React-Native&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=4533usman&repo=rescure-app-React-Native&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 &nbsp;
 <a href="https://github.com/4533usman/BlogApp_MERN-Stack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4533usman&repo=BlogApp_MERN-Stack&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=4533usman&repo=BlogApp_MERN-Stack&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 <br/>
 <a href="https://github.com/4533usman/ConfigPilot-React-Native">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4533usman&repo=ConfigPilot-React-Native&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=4533usman&repo=ConfigPilot-React-Native&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 &nbsp;
 <a href="https://github.com/4533usman/E-Commerece-APIS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4533usman&repo=E-Commerece-APIS&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=4533usman&repo=E-Commerece-APIS&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 
 </div>
