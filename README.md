@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Muhammad%20Usman%20Khalil&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descColor=8b949e&descAlignY=55" />
 
 <!-- Animated Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%9A%80+Building+Production-Ready+Apps;%E2%9A%A1+MERN+%7C+React+Native+%7C+Python+%7C+Java;%F0%9F%94%A5+Turning+Ideas+Into+Scalable+Solutions" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=450&height=45&lines=%F0%9F%9A%80+Building+Production-Ready+Apps;%E2%9A%A1+MERN+%7C+React+Native+%7C+Python+%7C+Java;%F0%9F%94%A5+Ideas+Into+Scalable+Solutions" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -46,7 +46,7 @@ currently_building: Production-Ready Mobile & Web Applications
 motto: "Ship fast. Ship clean. Ship often."
 ```
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240"/>
 
 - 🔭 **Currently working on** scalable MERN stack & React Native apps
 - 🌱 **Exploring** Machine Learning & AI with Python
