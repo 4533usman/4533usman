@@ -1,201 +1,142 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Muhammad%20Usman%20Khalil&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descColor=8b949e&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Muhammad%20Usman%20Khalil&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20Mobile%20Developer&descSize=18&descColor=8b949e&descAlignY=55" alt="Header Banner" />
 
-<!-- Animated Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=450&height=45&lines=%F0%9F%9A%80+Building+Production-Ready+Apps;%E2%9A%A1+MERN+%7C+React+Native+%7C+Python+%7C+Java;%F0%9F%94%A5+Ideas+Into+Scalable+Solutions" alt="Typing SVG" /></a>
-
-<br/>
-
-<!-- Social Badges with Hover Animation -->
-<a href="https://www.linkedin.com/in/usmankhalil4533/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://twitter.com/usman_4533">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-&nbsp;
-<a href="https://github.com/4533usman">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://orcid.org/0009-0003-8763-0397">
-  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=%F0%9F%9A%80+Building+Scalable+Web+%26+Mobile+Apps;%E2%9A%A1+MERN+Stack+%7C+React+Native+%7C+Python;%F0%9F%94%A5+Turning+Complex+Ideas+Into+Reality;%F0%9F%92%BB+Clean+Code+%7C+Modern+Architecture" alt="Typing SVG" />
 </a>
 
 <br/>
+
+<!-- Social Badges with Modern Style -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/usmankhalil4533/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/usman_4533" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/4533usman" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://orcid.org/0009-0003-8763-0397" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+  </a>
+</p>
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=4533usman&style=for-the-badge&color=161b22&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views"/>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+---
 
-```yaml
-name: Muhammad Usman Khalil
-role: Software Engineer
-location: Pakistan 🇵🇰
-focus: Full Stack Development (Web + Mobile)
-currently_building: Production-Ready Mobile & Web Applications
-motto: "Ship fast. Ship clean. Ship often."
-```
+## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240"/>
+<table border="0">
+ <tr>
+    <td width="60%">
+      <p>
+        Hi there! 👋 I am <b>Muhammad Usman Khalil</b>, a passionate <b>Software Engineer & Full Stack Developer</b> specializing in building high-performance, cross-platform mobile apps and scalable web services.
+      </p>
+      <ul>
+        <li>🔭 <b>Currently building:</b> Production-ready <b>React Native</b> & <b>MERN Stack</b> applications.</li>
+        <li>🌱 <b>Learning & Exploring:</b> AI/ML Integrations, Next.js architecture, and Cloud-Native scaling.</li>
+        <li>⚡ <b>Core Philosophy:</b> <i>"Ship fast. Ship clean. Ship often."</i></li>
+        <li>💼 <b>Looking for:</b> Exciting Full-Stack / Mobile engineering opportunities & collaborations.</li>
+        <li>💬 <b>Ask me about:</b> React, React Native, Node.js, Express, MongoDB, REST APIs & App Architecture.</li>
+        <li>📫 <b>Contact:</b> <a href="https://www.linkedin.com/in/usmankhalil4533/">LinkedIn Profile</a></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF" />
+    </td>
+ </tr>
+</table>
 
-- 🔭 **Currently working on** scalable MERN stack & React Native apps
-- 🌱 **Exploring** Machine Learning & AI with Python
-- ⚡ **Expertise** in end-to-end product delivery — from architecture to deployment
-- 🎯 **Goal:** Build products that make a difference
-- 💬 **Ask me about** React, Node.js, React Native, Express, MongoDB
-- 📫 **Reach me at** [LinkedIn](https://www.linkedin.com/in/usmankhalil4533/)
+<br/>
 
-<br clear="both"/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
 ### 🎨 Frontend & Mobile
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br><b>React</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br><b>JavaScript</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-<br><b>TypeScript</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br><b>HTML5</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-<br><b>CSS3</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-<br><b>Redux</b>
-</td>
-</tr>
-</table>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,tailwind,vite&perline=8&theme=dark" alt="Frontend Skills" />
+  </a>
+</p>
 
-### ⚙️ Backend & APIs
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br><b>Node.js</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
-<br><b>Express.js</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br><b>Python</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br><b>Java</b>
-</td>
-</tr>
-</table>
+### 📱 Mobile App Development
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,android,apple&perline=6&theme=dark" alt="Mobile Skills" />
+  </a>
+</p>
 
-### 🗄️ Database & Cloud
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br><b>MongoDB</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br><b>MySQL</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-<br><b>PostgreSQL</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-<br><b>Supabase</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-<br><b>Firebase</b>
-</td>
-</tr>
-</table>
+### ⚙️ Backend & Cloud
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,mongodb,postgres,mysql,supabase,firebase&perline=9&theme=dark" alt="Backend Skills" />
+  </a>
+</p>
 
-### 🔧 Tools & DevOps
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br><b>Git</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br><b>GitHub</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br><b>Docker</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br><b>VS Code</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br><b>Postman</b>
-</td>
-</tr>
-</table>
+### 🔧 Tools & Workflow
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,vscode,linux,npm&perline=8&theme=dark" alt="Tools Skills" />
+  </a>
+</p>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## 📊 GitHub Analytics
+---
+
+## 📊 GitHub Analytics & Insights
 
 <div align="center">
 
-<!-- GitHub Streak Stats (demolab — always works, no PAT needed) -->
-<a href="https://github.com/4533usman">
-  <img src="https://streak-stats.demolab.com/?user=4533usman&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
-</a>
-
-<br/><br/>
-
-<!-- Language Badges (shields.io — always works) -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+<table border="0">
+  <tr>
+    <td align="center">
+      <!-- GitHub Streak Stats -->
+      <a href="https://github.com/4533usman">
+        <img src="https://streak-stats.demolab.com/?user=4533usman&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" width="400"/>
+      </a>
+    </td>
+    <td align="center">
+      <!-- Top Languages Chart -->
+      <a href="https://github.com/4533usman">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4533usman&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages" width="350"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <!-- Overall GitHub Stats Card -->
+      <a href="https://github.com/4533usman">
+        <img src="https://github-readme-stats.vercel.app/api?username=4533usman&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="GitHub Stats" width="450"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -205,28 +146,28 @@ motto: "Ship fast. Ship clean. Ship often."
 <td width="50%">
 <h3 align="center">🆘 Rescue App</h3>
 <p align="center">
-  <a href="https://github.com/4533usman/rescure-app-React-Native">
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  </a>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
+  <img src="https://img.shields.io/badge/Mobile_App-58a6ff?style=flat-square" alt="Mobile"/>
   <br/><br/>
-  <i>Emergency rescue application built with React Native & Expo for real-time location sharing and SOS alerts.</i>
+  <i>Emergency rescue mobile application built with React Native & Expo for real-time location tracking and SOS instant alerts.</i>
   <br/><br/>
   <a href="https://github.com/4533usman/rescure-app-React-Native">
-    <img src="https://img.shields.io/badge/View_Code-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View_Repository-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
   </a>
 </p>
 </td>
 <td width="50%">
 <h3 align="center">📝 Blog App</h3>
 <p align="center">
-  <a href="https://github.com/4533usman/BlogApp_MERN-Stack">
-    <img src="https://img.shields.io/badge/MERN_Stack-00D27F?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN"/>
-  </a>
+  <img src="https://img.shields.io/badge/MERN_Stack-00D27F?style=flat-square&logo=mongodb&logoColor=white" alt="MERN"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens" alt="JWT"/>
+  <img src="https://img.shields.io/badge/Full_Stack-58a6ff?style=flat-square" alt="Full Stack"/>
   <br/><br/>
-  <i>Full-featured blogging platform with authentication, CRUD operations, and responsive UI using MERN stack.</i>
+  <i>Full-featured blogging platform with secure authentication, rich-text CRUD operations, and responsive web UI.</i>
   <br/><br/>
   <a href="https://github.com/4533usman/BlogApp_MERN-Stack">
-    <img src="https://img.shields.io/badge/View_Code-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View_Repository-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
   </a>
 </p>
 </td>
@@ -235,28 +176,28 @@ motto: "Ship fast. Ship clean. Ship often."
 <td width="50%">
 <h3 align="center">⚙️ ConfigPilot</h3>
 <p align="center">
-  <a href="https://github.com/4533usman/ConfigPilot-React-Native">
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  </a>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Dynamic_UI-58a6ff?style=flat-square" alt="Dynamic UI"/>
   <br/><br/>
-  <i>Configuration management mobile app with dynamic form generation and remote config capabilities.</i>
+  <i>Configuration management mobile app with dynamic schema-based form generation and remote config sync capabilities.</i>
   <br/><br/>
   <a href="https://github.com/4533usman/ConfigPilot-React-Native">
-    <img src="https://img.shields.io/badge/View_Code-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View_Repository-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
   </a>
 </p>
 </td>
 <td width="50%">
-<h3 align="center">🛒 E-Commerce APIs</h3>
+<h3 align="center">🛒 E-Commerce Backend APIs</h3>
 <p align="center">
-  <a href="https://github.com/4533usman/E-Commerece-APIS">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  </a>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <br/><br/>
-  <i>RESTful API backend for e-commerce with authentication, product management, orders, and payment integration.</i>
+  <i>Scalable RESTful API backend featuring JWT authentication, product catalogs, cart management, and payment checkout.</i>
   <br/><br/>
   <a href="https://github.com/4533usman/E-Commerece-APIS">
-    <img src="https://img.shields.io/badge/View_Code-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View_Repository-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
   </a>
 </p>
 </td>
@@ -264,41 +205,54 @@ motto: "Ship fast. Ship clean. Ship often."
 </table>
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## 🐍 Contribution Snake
+---
+
+## 🐍 Contribution Graph Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/4533usman/4533usman/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4533usman/4533usman/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4533usman/4533usman/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/4533usman/4533usman/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
+
+---
 
 <div align="center">
 
-### 💡 Random Dev Quote
+### 💡 Daily Dev Inspiration
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
 
 <br/><br/>
 
-<!-- Connect Section -->
-### 🤝 Let's Connect & Build Together!
+### 🤝 Let's Connect & Build Something Amazing!
 
 <p>
-  <i>I'm always open to collaborating on exciting projects and innovative ideas.</i>
-  <br/>
-  <i>Feel free to reach out — let's turn ideas into reality! 🚀</i>
+  <i>I'm always open to discussing new opportunities, open-source projects, or innovative tech ideas.</i>
 </p>
 
-<a href="https://www.linkedin.com/in/usmankhalil4533/">
-  <img src="https://img.shields.io/badge/-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/usmankhalil4533/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:usmankhalil4533@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/usman_4533" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on Twitter"/>
+  </a>
+</p>
 
-<br/><br/>
+<br/>
 
 <!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" alt="Footer Banner" />
 
 </div>
